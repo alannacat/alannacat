@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alannacat
 - 👀 I’m interested in learning how to code to eventually work full-time in this wonderful field
-- 🌱 I’m currently learning the basics with The Odin Project
+- 🌱 I’m currently learning the basics!
 - 💞️ I’m looking to collaborate on I'm not sure what yet!
 - 📫 How to reach me : TBA!
 
